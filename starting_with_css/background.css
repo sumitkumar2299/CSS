@@ -1,0 +1,16 @@
+body {
+    /* background-color: aquamarine; */
+
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThWcCcILrTMXe4jD5oP-hcIdeCuLAKbKjmrw&s);
+    background-attachment: fixed ;
+}
+
+
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: green;
+}

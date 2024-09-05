@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+#div1 {
+    border: solid red 1px;
+    padding: 10px;
+    margin-bottom: 5px ;
+    width: 400px ;
+    height: 40px ;
+    box-sizing: border-box;
+}
+#div2 {
+    border: solid blue 1px;
+    padding: 10px;
+    margin-bottom: 5px ;
+    width: 400px ;
+    height: 100px ;
+}
+#div3 {
+    border: solid green  1px;
+    padding: 10px;
+    margin-bottom: 5px ;
+    width: 400px ;
+    height: 100px ;
+}
+
+

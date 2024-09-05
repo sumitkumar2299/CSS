@@ -1,0 +1,16 @@
+h1 {
+    color : red;
+    text-decoration: underline;
+    background-color: bisque;
+    text-align: end;
+    text-transform: capitalize;
+    letter-spacing: 2px;  
+     /*to add space between letter and the words   */
+}
+
+p {
+    line-height: 10 px ;
+    word-spacing: 2 px ;
+    text-indent: 50 px ;
+    
+}

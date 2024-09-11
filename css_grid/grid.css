@@ -1,0 +1,5 @@
+#parent {
+    display: grid;/*makes the parent container */
+    grid-template-columns: 100px 200px 200px;
+    gap: 10px;
+}

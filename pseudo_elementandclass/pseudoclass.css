@@ -1,0 +1,12 @@
+p:first-child{
+    /* p tag which is the first child of its parents*/
+    color: blue;
+}
+
+p:last-child{
+    color: brown;
+}
+
+p:nth-child(3){
+    color: red;
+}
